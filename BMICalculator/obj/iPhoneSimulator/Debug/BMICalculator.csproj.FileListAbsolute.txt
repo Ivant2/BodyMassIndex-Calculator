@@ -1,0 +1,9 @@
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.pdb
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/actool/_PartialAppManifest.items
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/optimized/
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/ivant2/Desktop/Repos/BodyMassIndex-Calculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.pdb
