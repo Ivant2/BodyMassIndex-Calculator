@@ -15,6 +15,10 @@ namespace BMICalculator
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UILabel bmiLabel { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton calculateButton { get; set; }
 
         [Outlet]
@@ -31,6 +35,11 @@ namespace BMICalculator
 
         void ReleaseDesignerOutlets ()
         {
+            if (bmiLabel != null) {
+                bmiLabel.Dispose ();
+                bmiLabel = null;
+            }
+
             if (calculateButton != null) {
                 calculateButton.Dispose ();
                 calculateButton = null;

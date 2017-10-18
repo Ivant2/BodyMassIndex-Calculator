@@ -14,5 +14,25 @@ namespace BMICalculator
     [Register ("DetailViewController")]
     partial class DetailViewController
     {
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIView bmiDetailLabel { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UILabel resultLabel { get; set; }
+
+        void ReleaseDesignerOutlets ()
+        {
+            if (bmiDetailLabel != null) {
+                bmiDetailLabel.Dispose ();
+                bmiDetailLabel = null;
+            }
+
+            if (resultLabel != null) {
+                resultLabel.Dispose ();
+                resultLabel = null;
+            }
+        }
     }
 }
