@@ -36,6 +36,8 @@ namespace BMICalculator
                 result = "High";
             else
                 result = "Too High";
+
+            resultLabel.Text = result;
         }
     }
 }
